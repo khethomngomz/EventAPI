@@ -1,0 +1,7 @@
+C:\Users\khetho mngomezulu\EventTicketAPI\obj\Debug\net7.0\EventTicketAPI.Core.csproj.AssemblyReference.cache
+C:\Users\khetho mngomezulu\EventTicketAPI\obj\Debug\net7.0\EventTicketAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khetho mngomezulu\EventTicketAPI\obj\Debug\net7.0\EventTicketAPI.Core.AssemblyInfoInputs.cache
+C:\Users\khetho mngomezulu\EventTicketAPI\obj\Debug\net7.0\EventTicketAPI.Core.AssemblyInfo.cs
+C:\Users\khetho mngomezulu\EventTicketAPI\obj\Debug\net7.0\EventTicketAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\khetho mngomezulu\EventTicketAPI\obj\Debug\net7.0\EventTicketAPI.Core.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khetho mngomezulu\EventTicketAPI\obj\Debug\net7.0\EventTicketAPI.Core.MvcApplicationPartsAssemblyInfo.cache
